@@ -18,3 +18,9 @@ def command_line_args():
 
 if __name__ == "__main__":
     command_line_args()
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
